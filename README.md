@@ -51,6 +51,6 @@ Each folder represents a **topic or module** with code examples, explanations, a
 
 ## 🧑‍💻 Author  
 
-Made with ❤️ [AnuragTiwari](https://github.com/anuragtiwari3100)  
+Made with ❤️ [AnuragTiwari](https://www.instagram.com/abhishektiwari_8/)  
 
 Feel free to ⭐ this repo if you find it useful!
