@@ -44,7 +44,7 @@ Each folder represents a **topic or module** with code examples, explanations, a
 ## 📘 How to Use  
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/your-username/Java-Mastery-Roadmap.git
+   git clone  https://github.com/anuragtiwari3100/Java-From-Zero-to-Hero
 2.Open any topic folder in your favorite IDE (IntelliJ IDEA / Eclipse / VS Code).
 3.Run the .java files to explore examples.
 4.Try modifying the code & solve additional exercises.
